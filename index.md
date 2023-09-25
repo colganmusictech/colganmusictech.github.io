@@ -1,8 +1,8 @@
 ---
-avatar-name: "Octo Katz"
-avatar-url: "assets/img/avatar.jpg"
-avatar-alt-text: "This is a description of what my avatar looks like for people who can't see it."
-interest-prefix: "My interests:"
+avatar-name: "Colgan Music Tech"
+avatar-url: "assets/img/logo.png"
+avatar-alt-text: "New Colgan Music Tech 'saw tooth' logo"
+interest-prefix: ""
 ---
 
-I’m GitHub’s mascot, an anthropomorphized “[octocat](https://octodex.github.com/)” with five octopus-like arms. I was created by graphic designer Simon Oxley.
+Latest links for the 2023–24 CFPA Music Technology program at Colgan High School
